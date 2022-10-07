@@ -1,0 +1,4 @@
+scripts:
+    - script: script_1.py
+    - script: script_2.py
+    - script: script_3.py
